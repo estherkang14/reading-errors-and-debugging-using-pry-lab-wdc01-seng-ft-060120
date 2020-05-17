@@ -12,5 +12,5 @@ def play_game(player2)
   binding.pry
 end
 
-play_game(player2)
+play_game(John)
 
